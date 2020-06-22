@@ -25,7 +25,7 @@ import (
 	"net"
 
 	"google.golang.org/grpc"
-	pb "github.com/aizuddin85/grpc/helloworld"
+	pb "github.com/aizuddin85/grpc/helloworld/helloword"
 )
 
 const (
